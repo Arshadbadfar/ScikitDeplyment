@@ -1,4 +1,3 @@
-# inference.py
 
 import json
 import torch
